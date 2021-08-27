@@ -1,0 +1,466 @@
+[
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_book_app_icon_foreground.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-hdpi\\book_app_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_madame.jpg.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable\\madame.jpg"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_book_app_icon.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-xxhdpi\\book_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_rating.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_rating.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_favourites.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-xhdpi\\ic_favourites.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_book_app_icon_round.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-xxxhdpi\\book_app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dashboard.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-xhdpi\\ic_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_book_app_icon_round.xml.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-anydpi-v26\\book_app_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_log_out.xml.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\log_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_bookhub.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable\\login_bookhub.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_dashboard.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-mdpi\\ic_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_default_book_cover.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable\\default_book_cover.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_my_profile.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable\\my_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_about_app.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_about_app.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_rating.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-mdpi\\ic_rating.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_book_app_icon_foreground.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-xxhdpi\\book_app_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_book_app_icon.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-xhdpi\\book_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_about_app.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-mdpi\\ic_about_app.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_book_app_icon_foreground.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-xhdpi\\book_app_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_adventures_finn.jpg.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable\\adventures_finn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_book_app_icon_round.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-xhdpi\\book_app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_book_app_icon_foreground.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-xxxhdpi\\book_app_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_profile.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-xhdpi\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moby_dick.jpg.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable\\moby_dick.jpg"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\layout_recycler_favourite_single_row.xml.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\layout\\recycler_favourite_single_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_rating.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-xxhdpi\\ic_rating.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_favourites.xml.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\layout\\fragment_favourites.xml"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_book_app_icon_foreground.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-mdpi\\book_app_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_sort.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_sort.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_favourites.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_favourites.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_action_sort.xml.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_action_sort.xml"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_dashboard.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_anna_kare.jpg.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable\\anna_kare.jpg"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_about_app.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-hdpi\\ic_about_app.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_sort.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_sort.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_drawer.xml.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\menu\\menu_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_action_sort.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_action_sort.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_log_out.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\log_out.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_book_app_icon.xml.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-anydpi-v26\\book_app_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bookhub_drawer_icon_web.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable\\bookhub_drawer_icon_web.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_description.xml.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\layout\\activity_description.xml"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\layout_drawer_header.xml.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\layout\\drawer_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_dashboard.xml.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_about_app.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-xhdpi\\ic_about_app.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_favourites.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_favourites.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_favourites.xml.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_favourites.xml"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lolita.jpg.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable\\lolita.jpg"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_log_out.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-xhdpi\\log_out.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_sort.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-hdpi\\ic_action_sort.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_log_out.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\log_out.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_book_app_icon.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-mdpi\\book_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_profile.xml.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_log_out.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-xxhdpi\\log_out.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_favourites.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-hdpi\\ic_favourites.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_dashboard.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-xxhdpi\\ic_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_about_app.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_about_app.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_sort.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-mdpi\\ic_action_sort.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_profile.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-mdpi\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_profile.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-hdpi\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_book_app_icon_round.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-xxhdpi\\book_app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_dashboard.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_book_app_icon.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-xxxhdpi\\book_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_rating.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_rating.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_rating.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-hdpi\\ic_rating.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_my_profile_girl.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable\\my_profile_girl.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_favourites.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-xxhdpi\\ic_favourites.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_log_out.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-mdpi\\log_out.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_about_app.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-xxhdpi\\ic_about_app.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_dashboard.xml.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\menu\\menu_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lord_of_rings.jpg.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable\\lord_of_rings.jpg"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_rating.xml.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_rating.xml"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_action_sort.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_action_sort.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_about_app.xml.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\layout\\fragment_about_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ps_ily.jpg.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable\\ps_ily.jpg"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_favourites.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-mdpi\\ic_favourites.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_book_app_icon_round.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-hdpi\\book_app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_great_gatsby.jpg.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable\\great_gatsby.jpg"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_about_app.xml.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_about_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_book_app_icon_round.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-mdpi\\book_app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\layout_recycler_dashboard_single_row.xml.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\layout\\recycler_dashboard_single_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_profile.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-xxhdpi\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_book_app_icon.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\mipmap-hdpi\\book_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_profile.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_rating.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-xhdpi\\ic_rating.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_war_and_peace.jpg.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable\\war_and_peace.jpg"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_dashboard.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-hdpi\\ic_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_log_out.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable-hdpi\\log_out.png"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable_middlemarch.jpg.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\src\\main\\res\\drawable\\middlemarch.jpg"
+    },
+    {
+        "merged": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_profile.png.flat",
+        "source": "C:\\Users\\alokg\\AndroidStudioProjects\\BookHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_profile.png"
+    }
+]
