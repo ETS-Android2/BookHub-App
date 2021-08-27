@@ -1,0 +1,101 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.internshala.bookhub"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="18"
+8-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" /> <!-- Allow app to connect to internet & do the transfer of data -->
+11-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:6:22-76
+13
+14    <application
+14-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:8:5-38:19
+15        android:allowBackup="true"
+15-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.3.0] C:\Users\Paranjal Dwivedi\.gradle\caches\transforms-2\files-2.1\e7bbb5fcadccbefc7ce3050f78a383a1\core-1.3.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/book_app_icon"
+18-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:10:9-45
+19        android:label="@string/app_name"
+19-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:11:9-41
+20        android:networkSecurityConfig="@xml/network_security_config"
+20-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:12:9-69
+21        android:resizeableActivity="false"
+21-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:13:9-43
+22        android:roundIcon="@mipmap/book_app_icon_round"
+22-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:14:9-56
+23        android:supportsRtl="true"
+23-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:15:9-35
+24        android:testOnly="true"
+25        android:theme="@style/AppTheme" >
+25-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:16:9-40
+26        <activity android:name="com.internshala.bookhub.activity.SplashActivity" >
+26-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:17:9-23:20
+26-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:17:19-58
+27            <intent-filter>
+27-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:18:13-22:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:19:17-69
+28-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:19:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:21:17-77
+30-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:21:27-74
+31            </intent-filter>
+32        </activity>
+33        <activity
+33-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:24:9-29:20
+34            android:name="com.internshala.bookhub.activity.LoginActivity"
+34-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:25:13-51
+35            android:configChanges="orientation|screenSize"
+35-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:26:13-59
+36            android:screenOrientation="portrait" >
+36-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:27:13-49
+37        </activity>
+38        <activity
+38-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:30:9-33:52
+39            android:name="com.internshala.bookhub.activity.DescriptionActivity"
+39-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:31:13-57
+40            android:configChanges="orientation|screenSize"
+40-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:32:13-59
+41            android:screenOrientation="portrait" />
+41-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:33:13-49
+42        <activity
+42-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:34:9-37:52
+43            android:name="com.internshala.bookhub.activity.MainActivity"
+43-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:35:13-50
+44            android:configChanges="orientation|screenSize"
+44-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:36:13-59
+45            android:screenOrientation="portrait" />
+45-->C:\Users\Paranjal Dwivedi\AndroidStudioProjects\BookHub\app\src\main\AndroidManifest.xml:37:13-49
+46
+47        <service
+47-->[androidx.room:room-runtime:2.2.5] C:\Users\Paranjal Dwivedi\.gradle\caches\transforms-2\files-2.1\bf8ef9c99bacc97bb83557d2a67d4d8e\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+48            android:name="androidx.room.MultiInstanceInvalidationService"
+48-->[androidx.room:room-runtime:2.2.5] C:\Users\Paranjal Dwivedi\.gradle\caches\transforms-2\files-2.1\bf8ef9c99bacc97bb83557d2a67d4d8e\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+49            android:directBootAware="true"
+49-->[androidx.room:room-runtime:2.2.5] C:\Users\Paranjal Dwivedi\.gradle\caches\transforms-2\files-2.1\bf8ef9c99bacc97bb83557d2a67d4d8e\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+50            android:exported="false" />
+50-->[androidx.room:room-runtime:2.2.5] C:\Users\Paranjal Dwivedi\.gradle\caches\transforms-2\files-2.1\bf8ef9c99bacc97bb83557d2a67d4d8e\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+51
+52        <provider
+52-->[com.squareup.picasso:picasso:2.71828] C:\Users\Paranjal Dwivedi\.gradle\caches\transforms-2\files-2.1\82026833fedf635c4bd904fed111256b\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+53            android:name="com.squareup.picasso.PicassoProvider"
+53-->[com.squareup.picasso:picasso:2.71828] C:\Users\Paranjal Dwivedi\.gradle\caches\transforms-2\files-2.1\82026833fedf635c4bd904fed111256b\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+54            android:authorities="com.internshala.bookhub.com.squareup.picasso"
+54-->[com.squareup.picasso:picasso:2.71828] C:\Users\Paranjal Dwivedi\.gradle\caches\transforms-2\files-2.1\82026833fedf635c4bd904fed111256b\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+55            android:exported="false" />
+55-->[com.squareup.picasso:picasso:2.71828] C:\Users\Paranjal Dwivedi\.gradle\caches\transforms-2\files-2.1\82026833fedf635c4bd904fed111256b\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+56    </application>
+57
+58</manifest>
